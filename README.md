@@ -1,6 +1,6 @@
 Benjamín Muñoz Hurtado b.munoz@uniandes.edu.co 202021634
 
-Juan David Rueda Torres jd.reudat@uniandes.edu.co 201822988
+Juan David Rueda Torres jd.ruedat@uniandes.edu.co 201822988
 
 #ISIS1225 - Estructura de un proyecto
 
